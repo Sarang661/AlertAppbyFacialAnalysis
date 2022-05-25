@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-8lh(!tv7!hfu6*%k7b%_&a1_0mu@hyy*v^^($3!1c7y3)(d-0=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['alertappbyfacialanalysis.herokuapp.com']
+ALLOWED_HOSTS = ['alertappbyfacialanalysis.herokuapp.com','127.0.0.1']
 
 
 # Application definition

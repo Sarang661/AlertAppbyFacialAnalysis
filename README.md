@@ -1,5 +1,5 @@
 # AlertAppbyFacialAnalysis
- A countless number of people drive on the highway day and night. Taxi drivers, bus drivers, truck drivers and people traveling long-distance suffer from lack of sleep. People traveling long-distance suffer from lack of sleep. Due to which it becomes very dangerous to drive when feeling sleepy or angry or sad. So, to prevent these accidents I have build a web application using Python, Django which will alert the driver when he feels angry or sad or surprised.
+ A countless number of people drive on the highway day and night. Taxi drivers, bus drivers, truck drivers and people traveling long-distance suffer from lack of sleep. People traveling long-distance suffer from lack of sleep. Due to which it becomes very dangerous to drive when feeling sleepy or angry or sad. The majority of accidents happen due to the drowsiness and sudden mood changes(emotion) of the driver. So, to prevent these accidents I have build a web application using Python, Django which will alert the driver when he feels angry or sad or surprised.
 
 
 

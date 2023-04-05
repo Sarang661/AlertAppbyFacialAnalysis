@@ -64,7 +64,7 @@ Start the server
 ## Project Demo
 <br />
 
-### 1)
+### 1) Run Project on LocalHost
 
 <br />
 <br />

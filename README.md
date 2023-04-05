@@ -64,7 +64,7 @@ Start the server
 ## Project Demo
 <br />
 
-### 1) Go to https://alertappbyfacialanalysis.herokuapp.com/
+### 1)
 
 <br />
 <br />
